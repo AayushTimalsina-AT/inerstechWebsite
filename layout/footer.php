@@ -49,7 +49,7 @@
               <h2>Additional links</h2>
             </div>
             <ul class="footer-menu">
-              <li><a href="faq.php"><i class="fa fa-angle-right"></i> FAQ</a></li>
+              <!-- <li><a href="faq.php"><i class="fa fa-angle-right"></i> FAQ</a></li> -->
               <li><a href="Terms&conditions.php"><i class="fa fa-angle-right"></i> Terms and conditions</a></li>
               <li><a href="Privacy-policy.php"><i class="fa fa-angle-right"></i> Privacy policy</a></li>
               <!-- <li><a href="it_news.html"><i class="fa fa-angle-right"></i> News</a></li> -->

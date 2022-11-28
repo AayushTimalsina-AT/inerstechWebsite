@@ -26,7 +26,7 @@
     <div class="row">
       <div class="col-md-4 service_blog margin_bottom_50">
         <div class="full">
-          <div class="service_img"> <img class="img-responsive" src="assets/images/it_service/post-01.jpg" alt="#" /> </div>
+          <div class="service_img"> <img class="img-responsive" src="assets/images/it_service/seo.webp" alt="#" /> </div>
           <div class="service_cont">
             <h3 class="service_head">SEO(Search Engine Optimization) </h3>
             <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
@@ -36,7 +36,7 @@
       </div>
       <div class="col-md-4 service_blog margin_bottom_50">
         <div class="full">
-          <div class="service_img"> <img class="img-responsive" src="assets/images/it_service/post-02.jpg" alt="#" /> </div>
+          <div class="service_img"> <img class="img-responsive" src="assets/images/it_service/graphic-designe.webp" alt="#" /> </div>
           <div class="service_cont">
             <h3 class="service_head">Graphic Desigin</h3>
             <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>

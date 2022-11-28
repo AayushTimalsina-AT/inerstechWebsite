@@ -35,8 +35,7 @@ include 'layout/header.php';
 </ul>
 </div>
 <center>
-<button style="background-color:aqua;">
-    <a href="">Apply Here</a></button>
+    <a class="btn main_bt" href="apply.php">Apply Here</a>
 </center><br>
 </div>
 

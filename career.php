@@ -41,7 +41,7 @@ include 'layout/header.php'
         </div>
           
         <div class="row" style="margin-bottom: 30px;">
-        <h2 style=" font-weight:bold;">Current Opening</h2>
+        <h2 style=" font-weight:bold;">Current Opening Jobs</h2>
           <div class="col-md-12">
             <div class="full" style="margin-top: 15px;">
               <h3>Office Assistent</h3>

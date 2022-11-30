@@ -36,7 +36,7 @@
       <div class="col-lg-6 col-md-6 col-sm-12 about_cont_blog">
         <div class="full text_align_left">
           <h3>We prefer better</h3>
-          <p>Origami Technology Pvt. Ltd. is established with vision of endless creativity, compassion and dedication on revolutionizing IT industry. Our founding members discovered huge gap between current IT practices and digital platforms used by end users. Our mission is to create robust websites, software/apps, Networking services and securities and any other aspects of technology which needs our attention.</p>
+          <p>Iners Tech Pvt. Ltd. is established with vision of endless creativity, compassion and dedication on revolutionizing IT industry. Our founding members discovered huge gap between current IT practices and digital platforms used by end users. Our mission is to create robust websites, software/apps, Networking services and securities and any other aspects of technology which needs our attention.</p>
           <!-- <ul>
             <li><i class="fa fa-check-circle"></i>Persius appetere pro mea harum ridens</li>
             <li><i class="fa fa-check-circle"></i>Instructior vis at causae legimus luptatum mel</li>

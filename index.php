@@ -386,9 +386,9 @@
           <div class="col-md-4">
             <div class="full">
               <div class="service_blog_inner">
-                <div class="icon text_align_left"><img src="assets/images/it_service/si2.png" alt="#" /></div>
-                <h4 class="service-heading">Secure payments</h4>
-                <p>Our payment are process through secure payment services.</p>
+                <div class="icon text_align_left"><img src="assets/images/it_service/custom-coding.png" alt="#" /></div>
+                <h4 class="service-heading">Custom Coding</h4>
+                <p>We create an extensible architecture and write a clean and stable code. We integrate with the technologies of our clients.</p>
               </div>
             </div>
           </div>

@@ -40,7 +40,7 @@
 </head>
 <body id="default_theme" class="it_service">
 <!-- loader -->
-<div class="bg_load" style="background-image:url('assets/images/it_service/loader.png') ;">
+<div class="bg_load" style="background-image:url('assets/images/it_service/loader.png');">
    <img class="loader_animation" src="assets/images/fevicon/nav_icon.png" alt="#" width="200px" height="230px" style="margin-top:-100px;" /> </div>
 <!-- end loader -->
 <!-- header -->
